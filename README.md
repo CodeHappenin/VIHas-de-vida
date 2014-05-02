@@ -5,9 +5,9 @@ VIHas de Vida es una organización que necesita ayuda con su sitio web.
 Sketches:
 ---
 
-- ![Alt text](http://xcodehappen.in/img/vihas.jpg)
-- ![Alt text](http://xcodehappen.in/img/vihas.jpg)
-- ![Alt text](http://xcodehappen.in/img/vihas.jpg)
+- ![Alt text](http://codehappen.in/img/vihas.jpg)
+- ![Alt text](http://codehappen.in/img/vihas.jpg)
+- ![Alt text](http://codehappen.in/img/vihas.jpg)
 
 Descripción:
 ---
