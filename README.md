@@ -1,6 +1,7 @@
 VIHas-de-vida
 =============
 
+![Image not found](http://codehappen.in/img/vihas.jpg)
 
 This is the GitHub page for the project VIHas de Vida (http://codehappen.in/page/project/vihas). To join the project simply Fork this repository.
 
